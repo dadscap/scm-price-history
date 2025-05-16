@@ -22,7 +22,8 @@
   "homepage": "https://github.com/HilliamT/scm-price-history#readme",
   "dependencies": {
     "axios": "^0.20.0",
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "scm-price-history": "^0.0.3"
   },
   "devDependencies": {
     "typescript": "^4.0.2"
